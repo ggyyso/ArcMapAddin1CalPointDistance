@@ -1,0 +1,6 @@
+D:\SOE\MutiRuleInOneSOE160428\ArcMapAddin1CalPointDistance\bin\Debug\ArcMapAddin1CalPointDistance.dll
+D:\SOE\MutiRuleInOneSOE160428\ArcMapAddin1CalPointDistance\bin\Debug\ArcMapAddin1CalPointDistance.pdb
+D:\SOE\MutiRuleInOneSOE160428\ArcMapAddin1CalPointDistance\obj\Debug\ArcMapAddin1CalPointDistance.dll
+D:\SOE\MutiRuleInOneSOE160428\ArcMapAddin1CalPointDistance\obj\Debug\ArcMapAddin1CalPointDistance.pdb
+D:\SOE\MutiRuleInOneSOE160428\ArcMapAddin1CalPointDistance\obj\Debug\ArcMapAddin1CalPointDistance.csprojResolveAssemblyReference.cache
+D:\SOE\MutiRuleInOneSOE160428\ArcMapAddin1CalPointDistance\bin\Debug\ArcMapAddin1CalPointDistance.esriAddIn
